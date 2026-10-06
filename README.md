@@ -1,7 +1,5 @@
 # x10 - Multi-Model AI Arena & Debate Chamber
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-x10ai.vercel.app-13925e?style=for-the-badge)](https://x10ai.vercel.app)
-
 **x10** is an interactive, real-time AI multi-model interface that lets you broadcast prompts to 10 AI models in parallel, chat with individual models, and watch them engage in live debates inside the **Debate Chamber**. 
 
 It is designed with a premium, responsive user interface optimized for both desktop grid views and mobile horizontal swipable chats.
